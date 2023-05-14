@@ -10,7 +10,7 @@
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+              <li class="scroll-to-section"><a href="/master" class="active">Home</a></li>
               <li class="scroll-to-section"><a href="#services">Services</a></li>
               <li class="scroll-to-section"><a href="#projects">Projects</a></li>
               <li class="has-sub">
@@ -21,7 +21,7 @@
                 </ul>
               </li>
               <li class="scroll-to-section"><a href="#infos">Infos</a></li>
-              <li class="scroll-to-section"><a href="#contact">Login</a></li>
+              <li class="scroll-to-section"><a href="/login">Login</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>

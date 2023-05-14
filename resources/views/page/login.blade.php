@@ -33,7 +33,7 @@ https://templatemo.com/tm-582-tale-seo-agency
 <body>
 
   <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
+  {{-- <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
       <span class="dot"></span>
       <div class="dots">
@@ -42,7 +42,7 @@ https://templatemo.com/tm-582-tale-seo-agency
         <span></span>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- ***** Preloader End ***** -->
 
   <!-- ***** Pre-Header Area Start ***** -->
@@ -58,16 +58,44 @@ https://templatemo.com/tm-582-tale-seo-agency
       <div class="row">
         <div class="col-lg-7">
           <div class="caption header-text">
-            <h6>A COLLEGE MAJOR EXPLORATION</h6>
-            <div class="line-dec"></div>
-            <h4>Discover <em>Your</em> Passion <span> With Us</span></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod <a href="index.html">Home</a>, <a
-                href="about.html">About</a>, and <a href="faqs.html">FAQ</a>.</p>
-            <div class="main-button scroll-to-section"><a href="#services">Discover More</a></div>
-            <span>or</span>
-            <div class="second-button"><a href="faqs.html">About</a></div>
+            <form>
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label">Email address</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Password</label>
+                  <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3 form-check">
+                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                  <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+                <button type="submit" class="btn btn-primary" style="background-color: purple;">Submit</button>
+              </form>
           </div>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- footer -->
+  @include('partial.footer')
+
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{asset('/layout/vendor/jquery/jquery.min.js')}}"></script>
+  <script src="{{asset('/layout/vendor/bootstrap/js/bootstrap.min.js')}}"></script>
+
+  <script src="{{asset('/layout/assets/js/isotope.min.js')}}"></script>
+  <script src="{{asset('/layout/assets/js/owl-carousel.js')}}"></script>
+  <script src="{{asset('/layout/assets/js/tabs.js')}}"></script>
+  <script src="{{asset('/layout/assets/js/popup.js')}}"></script>
+  <script src="{{asset('/layout/assets/js/custom.js')}}"></script>
+
+
+</body>
+
+</html>
