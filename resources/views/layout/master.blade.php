@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
     rel="stylesheet">
 
-  <title>Tale SEO Agency CSS Template by TemplateMo website</title>
+  <title>A College Major Exploration</title>
 
   <!-- Bootstrap core CSS -->
   <link href="{{asset('/layout/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
@@ -54,7 +54,7 @@ https://templatemo.com/tm-582-tale-seo-agency
             <ul>
               <li><a href="#"><i class="fa fa-phone"></i>+000 1234 5678</a></li>
               <li><a href="#"><i class="fa fa-envelope"></i>infocompany@email.com</a></li>
-              <li><a href="#"><i class="fa fa-map-marker"></i>St. London 54th Bull</a></li>
+              <li><a href="#"><i class="fa fa-map-marker"></i>Bandung, Indonesia</a></li>
             </ul>
           </div>
         </div>
@@ -97,7 +97,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 </ul>
               </li>
               <li class="scroll-to-section"><a href="#infos">Infos</a></li>
-              <li class="scroll-to-section"><a href="#contact">Contact</a></li>
+              <li class="scroll-to-section"><a href="#contact">Login</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -115,15 +115,14 @@ https://templatemo.com/tm-582-tale-seo-agency
       <div class="row">
         <div class="col-lg-7">
           <div class="caption header-text">
-            <h6>SEO DIGITAL AGENCY</h6>
+            <h6>A COLLEGE MAJOR EXPLORATION</h6>
             <div class="line-dec"></div>
-            <h4>Dive <em>Into The SEO</em> World <span>With Tale</span></h4>
-            <p>Tale is the best SEO agency website template using Bootstrap v5.2.2 CSS for your company. It is a free
-              download provided by TemplateMo. There are 3 HTML pages, <a href="index.html">Home</a>, <a
+            <h4>Discover <em>Your</em> Passion <span> With Us</span></h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod <a href="index.html">Home</a>, <a
                 href="about.html">About</a>, and <a href="faqs.html">FAQ</a>.</p>
             <div class="main-button scroll-to-section"><a href="#services">Discover More</a></div>
             <span>or</span>
-            <div class="second-button"><a href="faqs.html">Check our FAQs</a></div>
+            <div class="second-button"><a href="faqs.html">About</a></div>
           </div>
         </div>
       </div>
