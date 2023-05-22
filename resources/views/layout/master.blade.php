@@ -79,8 +79,8 @@ https://templatemo.com/tm-582-tale-seo-agency
           <div class="row">
             <div class="col-lg-12">
               <div class="section-heading">
-                <h2>We Provide <em>Different Services</em> &amp;
-                  <span>Features</span> For Your Agency
+                <h2>We Provide <em>Various Information</em> <!-- &amp; --> about 
+                  <span>The Majors</span>  You Are Interested In
                 </h2>
                 <div class="line-dec"></div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
@@ -91,7 +91,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 <div class="icon">
                   <img src="{{asset('/layout/assets/images/services-01.jpg')}}" alt="discover SEO" class="templatemo-feature">
                 </div>
-                <h4>Discover More on Latest SEO Trends</h4>
+                <h4>Economics</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
@@ -99,7 +99,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 <div class="icon">
                   <img src="{{asset('/layout/assets/images/services-02.jpg')}}" alt="data analysis" class="templatemo-feature">
                 </div>
-                <h4>Real-Time Big Data Analysis</h4>
+                <h4>Engineering</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
@@ -107,7 +107,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 <div class="icon">
                   <img src="{{asset('/layout/assets/images/services-03.jpg')}}" alt="precise data" class="templatemo-feature">
                 </div>
-                <h4>Precise Data Analysis &amp; Prediction</h4>
+                <h4>Science</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
@@ -115,7 +115,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 <div class="icon">
                   <img src="{{asset('/layout/assets/images/services-04.jpg')}}" alt="SEO marketing" class="templatemo-feature">
                 </div>
-                <h4>SEO Marketing &amp; Social Media</h4>
+                <h4>Psychology</h4>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@ https://templatemo.com/tm-582-tale-seo-agency
       <div class="row">
         <div class="col-lg-6">
           <div class="section-heading">
-            <h2>Discover Our <em>Work</em> &amp; <span>Projects</span></h2>
+            <h2>Discover Your <em>Major</em> &amp; <span>Interests</span></h2>
             <div class="line-dec"></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
           </div>
