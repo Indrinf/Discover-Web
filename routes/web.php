@@ -17,6 +17,8 @@ Route::get('/master', function(){
     return view('layout.master');
 });
 
-Route::get('/login', function () {
+Route::get('/login', function(){
     return view('page.login');
 });
+
+Route::get('/postlogin', 'LoginController@postlogin')->name('postlogin');

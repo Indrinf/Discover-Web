@@ -58,14 +58,14 @@ https://templatemo.com/tm-582-tale-seo-agency
       <div class="row">
         <div class="col-lg-7">
           <div class="caption header-text">
-            <form>
+            <form action="{{route('postlogin')}}" method="post">
                 <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Email address</label>
+                  <label for="exampleInputEmail1" class="form-label" name="email">Email address</label>
                   <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                   <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                 </div>
                 <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Password</label>
+                  <label for="exampleInputPassword1" class="form-label" name="password">Password</label>
                   <input type="password" class="form-control" id="exampleInputPassword1">
                 </div>
                 <div class="mb-3 form-check">
