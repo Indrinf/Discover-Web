@@ -11,7 +11,7 @@
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li class="scroll-to-section"><a href="/master" class="active">Home</a></li>
-              <li class="scroll-to-section"><a href="#services">List of Courses</a></li>
+              <li class="scroll-to-section"><a href="#services">List of Faculty</a></li>
               <li class="scroll-to-section"><a href="#projects">List of Majors</a></li>
               <li class="has-sub">
                 <a href="javascript:void(0)">Pages</a>

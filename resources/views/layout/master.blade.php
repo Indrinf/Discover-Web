@@ -21,13 +21,6 @@
   <link rel="stylesheet" href="{{asset('/layout/assets/css/owl.css')}}">
   <link rel="stylesheet" href="{{asset('/layout/assets/css/animate.css')}}">
   <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-  <!--
-
-TemplateMo 582 Tale SEO Agency
-
-https://templatemo.com/tm-582-tale-seo-agency
-
--->
 </head>
 
 <body>
@@ -61,11 +54,10 @@ https://templatemo.com/tm-582-tale-seo-agency
             <h6>A COLLEGE MAJOR EXPLORATION</h6>
             <div class="line-dec"></div>
             <h4>Discover <em>Your</em> Passion <span> With Us</span></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod <a href="index.html">Home</a>, <a
-                href="about.html">About</a>, and <a href="faqs.html">FAQ</a>.</p>
+            <p>Start your college major exploration today and take the first step towards a future filled with purpose and success.</p>
             <div class="main-button scroll-to-section"><a href="#services">Discover More</a></div>
             <span>or</span>
-            <div class="second-button"><a href="faqs.html">About</a></div>
+            <div class="second-button"><a href="/about">About</a></div>
           </div>
         </div>
       </div>
@@ -80,10 +72,10 @@ https://templatemo.com/tm-582-tale-seo-agency
             <div class="col-lg-12">
               <div class="section-heading">
                 <h2>We Provide <em>Various Information</em> <!-- &amp; --> about 
-                  <span>The Majors</span>  You Are Interested In
+                  <span>The Faculty</span>  You Are Interested In
                 </h2>
                 <div class="line-dec"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
+                <p>Discover the latest knowledge and insights about the faculty here.</p>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
@@ -131,7 +123,7 @@ https://templatemo.com/tm-582-tale-seo-agency
           <div class="section-heading">
             <h2>Discover Your <em>Major</em> &amp; <span>Interests</span></h2>
             <div class="line-dec"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
+            <p>Let us support you on your journey towards a fulfilling and rewarding future.</p>
           </div>
         </div>
       </div>
@@ -143,42 +135,42 @@ https://templatemo.com/tm-582-tale-seo-agency
             <div class="item">
               <img src="{{asset('/layout/assets/images/projects-01.jpg')}}" alt="">
               <div class="down-content">
-                <h4>Digital Agency HTML Templates</h4>
+                <h4>Computer Science</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="{{asset('/layout/assets/images/projects-02.jpg')}}" alt="">
               <div class="down-content">
-                <h4>Admin Dashboard CSS Templates</h4>
+                <h4>Electrical Engineering</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="{{asset('/layout/assets/images/projects-03.jpg')}}" alt="">
               <div class="down-content">
-                <h4>Best Responsive Website Layouts</h4>
+                <h4>Civil Engineering</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="{{asset('/layout/assets/images/projects-04.jpg')}}" alt="">
               <div class="down-content">
-                <h4>HTML CSS Layouts for your websites</h4>
+                <h4>Information Systems</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="{{asset('layout/assets/images/projects-02.jpg')}}" alt="">
               <div class="down-content">
-                <h4>Bootstrap 5 Themes for Free</h4>
+                <h4>Medicine</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="{{asset('/layout/assets/images/projects-03.jpg')}}" alt="">
               <div class="down-content">
-                <h4>Mobile Friendly Website Layouts</h4>
+                <h4>Pharmacy</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>

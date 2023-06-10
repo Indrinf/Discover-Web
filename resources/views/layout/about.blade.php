@@ -21,19 +21,13 @@
   <link rel="stylesheet" href="{{asset('/layout/assets/css/owl.css')}}">
   <link rel="stylesheet" href="{{asset('/layout/assets/css/animate.css')}}">
   <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-  <!--
 
-TemplateMo 582 Tale SEO Agency
-
-https://templatemo.com/tm-582-tale-seo-agency
-
--->
 </head>
 
 <body>
 
   <!-- ***** Preloader Start ***** -->
-  {{-- <div id="js-preloader" class="js-preloader">
+  <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
       <span class="dot"></span>
       <div class="dots">
@@ -42,7 +36,7 @@ https://templatemo.com/tm-582-tale-seo-agency
         <span></span>
       </div>
     </div>
-  </div> --}}
+  </div>
   <!-- ***** Preloader End ***** -->
 
   <!-- ***** Pre-Header Area Start ***** -->
@@ -56,24 +50,19 @@ https://templatemo.com/tm-582-tale-seo-agency
   <div class="main-banner" id="top">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7">
+        <div class="col-lg-10">
           <div class="caption header-text">
-            <form action="{{route('postlogin')}}" method="post">
-                <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label" name="email">Email address</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                  <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-                </div>
-                <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label" name="password">Password</label>
-                  <input type="password" class="form-control" id="exampleInputPassword1">
-                </div>
-                <div class="mb-3 form-check">
-                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                  <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                </div>
-                <button type="submit" class="btn btn-primary" style="background-color: purple;">Submit</button>
-              </form>
+            <h6>A COLLEGE MAJOR EXPLORATION</h6>
+            <div class="line-dec"></div>
+            <h4>About <em>Our</em> <span> Website</span></h4>
+            <p>Welcome to our website, a comprehensive resource for information on faculties, majors, courses, and career paths. We understand the importance of informed decision-making for your educational and professional journey. Our platform provides all the necessary information you need.</p>
+            <p>Explore detailed profiles of each faculty and their departments, discovering the various majors and specializations offered. Gain insights into the subjects you will study and the skills you will develop.</p>
+            <p>Access comprehensive course listings to delve into specific subjects and topics covered in each major. Get detailed descriptions of individual courses, prerequisites, and credit hours to effectively plan your academic journey.</p>
+            <p>Our website focuses on helping you understand the career opportunities associated with each major. Gain in-depth information on potential career paths, job prospects, and industry trends for each field of study, empowering you to make informed decisions about your future career.</p>
+            <p>Whether you're a prospective student exploring faculties or a current student refining your major choice, our website is here to guide you. We provide accurate and up-to-date information to assist you in making the best decisions for your academic and professional aspirations.</p>
+            <p>Feel free to navigate through our user-friendly interface and discover the wealth of compiled information. We are committed to supporting your academic exploration and helping you pave the way towards a successful and fulfilling career.</p>
+            
+            <div class="main-button scroll-to-section"><a href="/master">Discover More</a></div>
           </div>
         </div>
       </div>

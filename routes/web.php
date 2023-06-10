@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,8 +18,20 @@ Route::get('/master', function(){
     return view('layout.master');
 });
 
-Route::get('/login', function(){
-    return view('page.login');
+Route::get('/about', function(){
+    return view('layout.about');
 });
 
-Route::get('/postlogin', 'LoginController@postlogin')->name('postlogin');
+Route::get('/detail', function(){
+    return view('layout.detail');
+});
+
+Route::get('/login', function(){
+    return view('admin.login');
+});
+
+Route::get('/dashboard', function(){
+    return view('admin.dashboard');
+});
+
+Route::post('/postlogin', 'LoginController@postlogin')->name('postlogin');
